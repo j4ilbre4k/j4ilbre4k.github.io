@@ -1,0 +1,14 @@
+Package: com.j4ilbre4k.cylinder
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: j4ilbre4k <email@gmail.com>
+
+Filename: /cylinder.deb
+Size: 300358
+MD5sum: c24e9c9b3f4096a8b93080207fac5580
+SHA1: dd35f74c38b9ac3652a134136e4ffcb15db67329
+SHA256: 5ddac771540c6f8f8e1ada87fa0deae2f85e1aac2536d125aaa0787667528cd4
+Section: Tweaks
+Description: Açıklama henüz eklenmedi test aşamasında
+Author: j4ilbre4k <email@gmail.com>
+Name: cylinder
